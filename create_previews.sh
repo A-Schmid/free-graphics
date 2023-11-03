@@ -13,6 +13,6 @@ do
 done;
 
 # use imagemagick to create a montage of all images in the repository
-montage "tmp/*.png" -tile "4x$(((COUNTER/4)+1))" preview.png
+montage "tmp/*.png" -tile "5x$(((COUNTER/5)+1))" preview.png
 
 rm -r tmp

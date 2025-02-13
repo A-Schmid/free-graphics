@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="85.879463mm"
+   height="30.87166mm"
+   viewBox="0 0 85.879464 30.87166"
+   version="1.1"
+   id="svg62458"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="arrow_diagonal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview62460"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77593294"
+     inkscape:cx="175.27288"
+     inkscape:cy="92.791524"
+     inkscape:window-width="1916"
+     inkscape:window-height="911"
+     inkscape:window-x="1920"
+     inkscape:window-y="167"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs62455">
+    <inkscape:path-effect
+       effect="taper_stroke"
+       id="path-effect60050"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="5.76"
+       attach_start="1.99999"
+       end_offset="1e-07"
+       start_smoothing="0.5"
+       end_smoothing="0.1"
+       jointype="extrapolated"
+       start_shape="center"
+       end_shape="center"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       id="path-effect62421"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="5.76"
+       attach_start="1.99999"
+       end_offset="1e-07"
+       start_smoothing="0.5"
+       end_smoothing="0.1"
+       jointype="extrapolated"
+       start_shape="center"
+       end_shape="center"
+       miter_limit="100" />
+    <inkscape:path-effect
+       effect="taper_stroke"
+       id="path-effect69234"
+       is_visible="true"
+       lpeversion="1"
+       stroke_width="6.66"
+       attach_start="1.3"
+       end_offset="0.2"
+       start_smoothing="0.5"
+       end_smoothing="0.5"
+       jointype="extrapolated"
+       start_shape="center"
+       end_shape="center"
+       miter_limit="100" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.11492,-124.04977)">
+    <path
+       style="fill:#554040;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.64409,132.51825 22.39831,-6.88097 36.99207,15.92897 4.49342,-1.29655 21.46649,14.65173 -52.70924,-5.39379 10.27928,-2.94791 z"
+       id="path75867"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#da3c43;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.11492,130.93074 22.39831,-6.88097 36.99207,15.92897 4.49342,-1.29655 21.46649,14.65173 -52.70924,-5.39379 10.27928,-2.94791 z"
+       id="path75800"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>
